@@ -24,12 +24,10 @@
 - [Raspberry Pi (Raspberry-Pi-OS) で Momo を使ってみる](https://github.com/shiguredo/momo/blob/develop/doc/SETUP_RASPBERRY_PI.md)
 - [テストモードを利用して Momo を動かしてみる](https://github.com/shiguredo/momo/blob/develop/doc/USE_TEST.md)
 
-WebRTC Native Client Momo のバイナリおよび関連ファイルは /home/pi/mimamori 下に展開しておきます。
+WebRTC Native Client Momo のバイナリおよび関連ファイルは /home/WHILL 下に展開しておきます。
 
 
 ## 使い方
 
 Raspberry Pi と同じローカルエリアネットワークに接続されているデバイスから http://192.168.255.10:8080/html/test.html にアクセスします。  
-画面右上「接続」ボタンを押して、ストリーミングを開始します。  
-また、画面右上「昼モード」、「夜モード」ボタンを押して、カメラの設定を切り替えます。  
-さらに、画面右上「画面キャプチャ」ボタンを押して、Web カメラの画像を指定した LINE のトークルームに送信します。
+画面右上「接続」ボタンを押して、ストリーミングを開始します。 
